@@ -1,5 +1,5 @@
 # Universidad Juárez Autónoma de Tabasco
-**División Académica de Informática y Sistemas**  
+**División Académica de Ciencias y Tecnologías de la Información**  
 **Carrera:** Ingeniería en Sistemas Computacionales  
 **Asignatura:** Tecnologías de la Información y la Comunicación  
 **Docente:** García Ulin Ninfa Urania  
