@@ -1,5 +1,5 @@
 # Universidad Juárez Autónoma de Tabasco
-**División Académica de Informática y Sistemas**  
+**División Académica de Ciencias y Tecnologías de la Información**  
 **Asignatura:** Tecnologías de la Información y la Comunicación  
 **Proyecto:** Análisis de Datos Estadísticos y Generación de Gráficos  
 **Alumno:** Angel Nahum Castro Ruiz  
