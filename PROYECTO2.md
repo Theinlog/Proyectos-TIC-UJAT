@@ -48,4 +48,6 @@ El presente informe documenta el análisis estadístico realizado al dataset de 
 ---
 
 ## 5. Evidencia del Archivo Excel
-El archivo fuente estructurado con las tablas dinámicas y gráficos correspondientes se encuentra alojado en este mismo repositorio con el nombre: `Análisis_BasesDeDatos_Proyecto2.xlsx`.
+El archivo fuente estructurado con las tablas dinámicas y gráficos correspondientes se encuentra alojado en este mismo repositorio:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b333acc7-83df-46af-a5c3-4cd2b3896d17" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e90149ea-d72b-4c44-a9d5-233b53ba3fa1" />
